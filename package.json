@@ -11,7 +11,7 @@
     "url"  : "http://github.com/contrast/exceptional-node.git"
   },
   "bugs" : {
-    "web"  : "http://github.com/contrast/exceptional-node/issues",
+    "url"  : "http://github.com/contrast/exceptional-node/issues",
     "mail" : "support@getexceptional.com"
   },
   "main"         : "./lib/exceptional",
